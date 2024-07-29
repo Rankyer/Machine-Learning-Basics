@@ -5,3 +5,6 @@ use linear regression to examine the relationship between property prices and po
 
 naive_bayes.py:
 use a Naive Bayes classifier to classify articles
+
+decision_trees.py:
+use decision tree to solve the tennis decision problem
